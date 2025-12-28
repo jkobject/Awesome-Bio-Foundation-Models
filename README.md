@@ -27,6 +27,7 @@ multimodalities.
   - [Protein](#protein)
   - [Single-cell](#single-cell)
   - [Multimodalities](#multimodalities)
+  - [Pathology](#pathology)
 - [Related Resources](#related-resources)
   - [Related Surveys](#related-surveys)
   - [Related Repositories](#related-repositories)
@@ -84,13 +85,7 @@ Papers are ranked chronologically.
 - **To Transformers and Beyond: Large Language Models for the Genome**
 
   [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2311.07621.pdf)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F374664a1f5704c7451975e3f231a29f439aeaecd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-
-- **GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with
-  Knowledge-Informed Cross-Species Foundation Model**
-
-  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.09.26.559542v1.full.pdf)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc290247b923304154fbc2842d97914c613ef66f5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F374664a1f5704c7451975e3f231a29f439aeaecd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)  
 
 - **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide
   Resolution**
@@ -100,16 +95,9 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/HazyResearch/hyena-dna)
   [![Stars](https://img.shields.io/github/stars/HazyResearch/hyena-dna?color=yellow&style=social)](https://github.com/HazyResearch/hyena-dna)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/LongSafari)
-
-- **(GeneFormer) Transfer learning enables predictions in network biology**
-
-  [![](https://img.shields.io/badge/Nature_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41586-023-06139-9)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7d1e59ce254bea5228da634dbe7c5c4160df6f98%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ctheodoris/Geneformer)
-
-- **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers
-  model for DNA-language in genome**
-
+  
+* **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**
+  
   [![](https://img.shields.io/badge/Bioinformatics_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc43d9cade31600400a0f62beb5bbcc1b548e009e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jerryji1993/DNABERT)
@@ -159,7 +147,7 @@ Papers are ranked chronologically.
   Tasks**
 
   [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/07/12/2023.07.11.548628.full.pdf)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa05be6905ce7fb4a86dd9b174232362cc50df5af%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/DOI:10.1371/journal.pone.0310814?fields=citationCount&query=$.citationCount&label=Citations&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/TencentAILabHealthcare/DNAGPT)
   [![Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/DNAGPT?color=yellow&style=social)](https://github.com/TencentAILabHealthcare/DNAGPT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/10UPPx6V13oQW6knuLV7d8SRIA3D6hYor)
@@ -228,9 +216,31 @@ Papers are ranked chronologically.
   [![Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/scBERT?color=yellow&style=social)](https://github.com/TencentAILabHealthcare/scBERT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/TencentAILabHealthcare/scBERT?tab=readme-ov-file#checkpoint)
 
-- **scPML: pathway-based multi-view learning for cell type annotation from
-  single-cell RNA-seq data**
+* **(GeneFormer) Transfer learning enables predictions in network biology**
+  
+  [![](https://img.shields.io/badge/Nature_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41586-023-06139-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7d1e59ce254bea5228da634dbe7c5c4160df6f98%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ctheodoris/Geneformer)
+  
+* **GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.09.26.559542v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc290247b923304154fbc2842d97914c613ef66f5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
+* **scPRINT: pre-training on 50 million cells allows robust gene network predictions**
+
+  [![](https://img.shields.io/badge/Nature_Communications_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-025-58699-1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc290247b923304154fbc2842d97914c613ef66f5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/cantinilab/scPRINT)
+
+* **scPRINT-2: Towards the next-generation of cell foundation models and benchmarks**
+
+  [![](https://img.shields.io/badge/BioRxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.64898/2025.12.11.693702v2)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6ac8807516b3a8c23e89f28c2766a0d26914f664%3Ffields%3DcitationCount&query=%24.citationCount&label=citations&style=social)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/cantinilab/scPRINT-2)
+
+* **scPML: pathway-based multi-view learning for cell type annotation from single-cell RNA-seq data**
+  
   [![](https://img.shields.io/badge/Communications_Biology_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42003-023-05634-z?fromPaywallRec=true)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1b539f1e4a8df6fcb5569348ebbbc44c8ee8fe04%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Kevis9/scPML)
@@ -343,9 +353,16 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=BKXvPDekud)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/OmicsML/CellPLM)
   [![Stars](https://img.shields.io/github/stars/OmicsML/CellPLM?color=yellow&style=social)](https://github.com/OmicsML/CellPLM)
+ 
+* **(mLLMCelltype) Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data**
+  
+  [![](https://img.shields.io/badge/bioRxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffe35cb0df5b3dabe3cf1f8ea2e43e862c0400f1a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/cafferychen777/mLLMCelltype)
+  [![Stars](https://img.shields.io/github/stars/cafferychen777/mLLMCelltype?color=yellow&style=social)](https://github.com/cafferychen777/mLLMCelltype)
 
-- **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis**
-
+* **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis**
+  
   [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02235-4)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdf9329a37002e860d45617e36ddefd39e97f4c28%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Winnie09/GPTCelltype_Paper)
@@ -365,6 +382,21 @@ Papers are ranked chronologically.
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa91773f7c81dac17bef8361babde871c88ed688b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Bruce-ywj/ERNIE-RNA)
   [![Stars](https://img.shields.io/github/stars/Bruce-ywj/ERNIE-RNA?color=yellow&style=social)](https://github.com/Bruce-ywj/ERNIE-RNA)
+
+* **GenerRNA: A generative pre-trained language model for de novo RNA design**
+  
+  [![](https://img.shields.io/badge/PLOS_ONE_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://www.biorxiv.org/content/10.1101/2024.03.17.585376v1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310814))
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa91773f7c81dac17bef8361babde871c88ed688b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://huggingface.co/pfnet/GenerRNA)
+  [![Stars](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/models/pfnet/GenerRNA&query=$.likes&label=Likes&color=yellow&style=social)](https://huggingface.co/pfnet/GenerRNA)
+
+* **Orthrus: Towards Evolutionary and Functional RNA Foundation Models**
+
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.10.10.617658v2)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd206b78072c58b06aada33d8b30fe9e94cfd801e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/bowang-lab/Orthrus)
+  [![Stars](https://img.shields.io/github/stars/bowang-lab/Orthrus?color=yellow&style=social)](https://github.com/bowang-lab/Orthrus)
+
 
 ### <code>Protein</code>
 
@@ -695,6 +727,53 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Gonglab-THU/SPIRED-Fitness)
   [![Stars](https://img.shields.io/github/stars/Gonglab-THU/SPIRED-Fitness?color=yellow&style=social)](https://github.com/Gonglab-THU/SPIRED-Fitness)
 
+* **SFM-Protein: Integrative Co-evolutionary Pre-training for Advanced Protein Sequence Representation**
+
+  [![](https://img.shields.io/badge/arXiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.24022)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1e617c1b57f83bf422edb4c1704a28853a8d0abb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **(BioEmu-1) Scalable emulation of protein equilibrium ensembles with generative deep learning**
+  
+  [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.12.05.626885v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F36b66b549be8bf275db64c8d002b5028b8c6235f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/microsoft/bioemu)
+  [![Stars](https://img.shields.io/github/stars/microsoft/bioemu?color=yellow&style=social)](https://github.com/microsoft/bioemu)
+
+* **(Evolla) Decoding the Molecular Language of Proteins with Evolla**
+
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/10.1101/2025.01.05.630192)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F41350ce555e79d9631e9a6a33015db872644596f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/westlake-repl/Evolla)
+  [![Stars](https://img.shields.io/github/stars/westlake-repl/Evolla?color=yellow&style=social)](https://github.com/westlake-repl/Evolla)
+
+* **ProTrek: Navigating the protein universe through tri-modal contrastive learning**
+
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/10.1101/2024.05.30.596740)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0ccf6bf9a9d155768f315e2f3e606f39bdd33661%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/westlake-repl/ProTrek)
+  [![Stars](https://img.shields.io/github/stars/westlake-repl/ProTrek?color=yellow&style=social)](https://github.com/westlake-repl/ProTrek)
+
+* **(ProteinDT) A text-guided protein design framework**
+
+  [![](https://img.shields.io/badge/Nature_Machine_Intelligence_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-025-01011-z)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd55b69a533dea69c8b2673cde8de90c6626ee789%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/chao1224/ProteinDT)
+  [![Stars](https://img.shields.io/github/stars/chao1224/ProteinDT?color=yellow&style=social)](https://github.com/chao1224/ProteinDT)
+
+* **(Pinal) Toward De Novo Protein Design from Natural Language**
+
+  [![](https://img.shields.io/badge/bioRxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v5)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faa2728836e242391b79c7329b3cfb35d9b4afccc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/westlake-repl/Denovo-Pinal)
+  [![Stars](https://img.shields.io/github/stars/westlake-repl/Denovo-Pinal?color=yellow&style=social)](https://github.com/westlake-repl/Denovo-Pinal)
+  
+***Protein foundation models are hot topics, more papers can be found in***
+- [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
+- [Awesome-Protein-Representation-Learning](https://github.com/LirongWu/awesome-protein-representation-learning)
+
+
+
+
 **_Protein foundation models are hot topics, more papers can be found in_**
 
 - [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
@@ -913,6 +992,36 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/evo-design/evo)
   [![Stars](https://img.shields.io/github/stars/evo-design/evo?color=yellow&style=social)](https://github.com/evo-design/evo)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/togethercomputer/evo-1-131k-base)
+
+
+* **NatureLM: Deciphering the Language of Nature for Scientific Discovery**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2502.07527)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1a9c8ce657bb02834be8774ef3b005679af362dc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Project](https://img.shields.io/badge/Project-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://naturelm.github.io/)
+
+
+* **Genome modeling and design across all domains of life with Evo 2**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arcinstitute.org/manuscripts/Evo2)
+  [![Stars](https://img.shields.io/github/stars/ArcInstitute/evo2?color=yellow&style=social)](https://github.com/ArcInstitute/evo2)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/arcinstitute)
+
+
+
+
+
+
+### <code>Pathology</code>
+
+* **H-optimus-0: Extract powerful features from histology images for various downstream applications**
+  
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/bioptimus/releases/tree/main/models/h-optimus/v0)
+  [![Stars](https://img.shields.io/github/stars/bioptimus/releases?color=yellow&style=social)](https://github.com/bioptimus/releases/tree/main/models/h-optimus/v0)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/bioptimus/H-optimus-0)
+
+
+
 
 ## Related Resources
 
